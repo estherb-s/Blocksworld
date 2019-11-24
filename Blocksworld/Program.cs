@@ -46,7 +46,6 @@ namespace Blocksworld
             // MoveAgent("down");
 
             // Console.WriteLine();
-
             // create a copy of the state
             // char[,] copy = (char[,])startState.Clone();
             // foreach (var element in copy) 

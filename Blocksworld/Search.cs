@@ -5,7 +5,8 @@ namespace Blocksworld
 {
     public class Search
     {
-
+        // DFS stack
+        // BFS queue
     }
 
 }

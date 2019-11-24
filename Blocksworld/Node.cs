@@ -34,9 +34,6 @@ namespace Blocksworld
             this.agent = agentPos;
             Console.WriteLine(state);
             // print the board
-            // Print2DArray(startState);
-            
-            // Print2DArray(startState);
         }    
 
         public static void Print2DArray(char[,] array)
