@@ -6,7 +6,23 @@ namespace Blocksworld
 {
     class Program
     {
-           static char[,] goalState = new char[,] {
+        static char[,] depth1 = new char[,] { {'0','0', '0', '0'}, {'0','*', 'A', '0'}, {'0','B', '0', '0'}, {'0','C', '0', '0'}};
+        static char[,] depth2 = new char[,] { {'0','0', '0', '0'}, {'*','0', 'A', '0'}, {'0','B', '0', '0'}, {'0','C', '0', '0'}};
+        static char[,] depth3 = new char[,] { {'*','0', '0', '0'}, {'0','0', 'A', '0'}, {'0','B', '0', '0'}, {'0','C', '0', '0'}};
+        static char[,] depth4 = new char[,] { {'0','0', '0', '0'}, {'0','0', 'A', '0'}, {'0','B', '0', '0'}, {'*','C', '0', '0'}};
+        static char[,] depth5 = new char[,] { {'0','0', '0', '0'}, {'A','0', '0', '0'}, {'0','B', '0', '0'}, {'0','C', '0', '*'}};
+        static char[,] depth6 = new char[,] { {'0','0', '0', '0'}, {'0','0', 'A', '0'}, {'0','B', '0', '0'}, {'C','0', '*', '0'}};
+        static char[,] depth7 = new char[,] { {'0','0', '0', '0'}, {'0','0', 'A', '0'}, {'B','0', '0', '0'}, {'0','C', '0', '*'}};
+        static char[,] depth8 = new char[,] { {'0','0', '0', '0'}, {'0','A', '0', '0'}, {'0','C', '0', 'B'}, {'0','0', '0', '*'}};
+        static char[,] depth9 = new char[,] { {'*','0', '0', '0'}, {'0','0', 'A', '0'}, {'B','0', '0', '0'}, {'0','0', 'C', '0'}};
+        static char[,] depth10 = new char[,] { {'0','0', '0', '0'}, {'0','A', '0', '0'}, {'0','0', '0', 'B'}, {'C','0', '0', '1'}};
+        static char[,] depth11 = new char[,] { {'0','A', '0', '0'}, {'0','0', '0', '0'}, {'0','B', 'C', '0'}, {'0','0', '0', '*'}};
+        static char[,] depth12 = new char[,] { {'0','0', '0', '0'}, {'0','A', 'C', '0'}, {'B','0', '0', '0'}, {'0','0', '*', '0'}};
+        static char[,] depth13 = new char[,] { {'A','0', '0', '0'}, {'0','0', '0', '0'}, {'0','B', 'C', '0'}, {'0','0', '0', '*'}};
+        static char[,] depth14 = new char[,] { {'0','0', '0', '0'}, {'0','0', '0', '0'}, {'0','0', '0', '0'}, {'A','B', 'C', '*'}};
+        
+
+        static char[,] goalState = new char[,] {
             {'0','0', '0', '0'},
             {'0', 'A', '0', '0'},
             {'0', 'B', '0','0'},
@@ -19,57 +35,28 @@ namespace Blocksworld
             {'A', 'B', 'C', '*'}
             };
 
-        // static char[,] startState1 = new char[,] {
-        //     {'0', '0', '0', '0'},
-        //     {'0', 'A', '0', '0'},
-        //     {'0', 'B', '0', '0'},
-        //     {'0', '*', '0', 'C'}
-        //     };
+        static char[,] startState1 = new char[,] {
+            {'0', '0', '0', '0'},
+            {'0', 'A', '0', '0'},
+            {'0', 'B', '0', '0'},
+            {'0', '*', 'C', '0'}
+            };
         static char[,] state { get; }
 
         static void Main(string[] args)
         {
             (int x, int y) startPos = (3,3); 
-            Node initial = new Node(startState, startPos);
-            List<Node> moves = new List<Node>();
-            
-            moves.Add(initial);
-            
-            moves = Moves(moves,"down");
-            moves = Moves(moves,"up");
-            
-            // moves = Moves(moves,"right");
+            // (int x, int y) startPos1 = (1,3); 
+            Node initial = new Node(startState, startPos, null, 0);
+        
+            // Search.BFS(initial, goalState);
+            // Search.DFS(initial, goalState);
+            // Search.IDS(initial, goalState);
+            Search.AStar(initial, goalState);
 
-            // moves.Add(nextNode);
-            // initial.MoveAgent("up");
-            // initial.MoveAgent("right");
-            // MoveAgent("down");
-
-            // Console.WriteLine();
-            // create a copy of the state
-            // char[,] copy = (char[,])startState.Clone();
-            // foreach (var element in copy) 
-            // {
-            //     Console.WriteLine(element);
-            // }
-
-        }
-
-        public static List<Node> Moves(List<Node> moves, string direction) 
-        {
-            // If the agent can't move it will return the old list
-            if (!(moves[moves.Count - 1].MoveAgent(direction).Length < 2))
-            {
-                // creates new node ffrom last element in list with the next move
-                Node newN = new Node(moves[moves.Count - 1].MoveAgent(direction), moves[moves.Count - 1].nextMove);
-                moves.Add(newN);
-            }
-
-            return moves;
-
-        }
+                  
+        }     
     }
 }
 
 
-// Search search = new Search();

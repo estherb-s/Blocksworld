@@ -120,3 +120,31 @@
 //         }
 //     }
 // }
+
+
+// moves.Add(nextNode);
+            // initial.MoveAgent("up");
+            // initial.MoveAgent("right");
+            // MoveAgent("down");
+
+            // Console.WriteLine();
+            // create a copy of the state
+            // char[,] copy = (char[,])startState.Clone();
+            // foreach (var element in copy) 
+            // {
+            //     Console.WriteLine(element);
+            // }
+
+// public static List<Node> Moves(List<Node> moves, string direction) 
+        // {
+        //     // If the agent can't move it will return the old list
+        //     if (!(moves[moves.Count - 1].MoveAgent(direction).Length < 2))
+        //     {
+        //         // creates new node ffrom last element in list with the next move
+        //         // Node newN = new Node(moves[moves.Count - 1].MoveAgent(direction), moves[moves.Count - 1].nextMove);
+        //         // moves.Add(newN);
+        //     }
+
+        //     return moves;
+
+        // }

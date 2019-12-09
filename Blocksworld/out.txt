@@ -1,0 +1,2 @@
+A* Nodes expanded: 27388
+Depth : 14
