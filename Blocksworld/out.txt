@@ -1,2 +1,203 @@
-A* Nodes expanded: 27388
-Depth : 14
+A* Optimal Depth: 3
+A* Nodes expanded: 0
+*	0	0	0	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+A* Nodes expanded: 1
+0	0	0	0	
+*	0	A	0	
+0	B	0	0	
+0	C	0	0	
+A* Nodes expanded: 2
+0	*	0	0	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+A* Nodes expanded: 3
+0	0	0	0	
+0	*	A	0	
+0	B	0	0	
+0	C	0	0	
+A* Nodes expanded: 4
+*	0	0	0	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+A* Nodes expanded: 5
+0	0	0	0	
+0	0	A	0	
+*	B	0	0	
+0	C	0	0	
+A* Nodes expanded: 6
+0	0	0	0	
+0	*	A	0	
+0	B	0	0	
+0	C	0	0	
+A* Nodes expanded: 7
+*	0	0	0	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+A* Nodes expanded: 8
+0	0	*	0	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+A* Nodes expanded: 9
+0	0	0	0	
+0	A	*	0	
+0	B	0	0	
+0	C	0	0	
+A* Nodes expanded: 9
+
+IDS
+Optimal Depth: 3
+Depth : 0
+IDS Nodes expanded: 0
+*	0	0	0	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 0
+IDS Nodes expanded: 0
+*	0	0	0	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 1
+IDS Nodes expanded: 1
+0	*	0	0	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 1
+IDS Nodes expanded: 1
+0	0	0	0	
+*	0	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 0
+IDS Nodes expanded: 1
+*	0	0	0	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 1
+IDS Nodes expanded: 2
+0	*	0	0	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 2
+IDS Nodes expanded: 3
+0	0	0	0	
+0	*	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 2
+IDS Nodes expanded: 3
+*	0	0	0	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 2
+IDS Nodes expanded: 3
+0	0	*	0	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 1
+IDS Nodes expanded: 3
+0	0	0	0	
+*	0	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 2
+IDS Nodes expanded: 4
+0	0	0	0	
+0	*	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 2
+IDS Nodes expanded: 4
+*	0	0	0	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 2
+IDS Nodes expanded: 4
+0	0	0	0	
+0	0	A	0	
+*	B	0	0	
+0	C	0	0	
+------------
+Depth : 0
+IDS Nodes expanded: 4
+*	0	0	0	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 1
+IDS Nodes expanded: 5
+0	*	0	0	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 2
+IDS Nodes expanded: 6
+0	0	*	0	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 3
+IDS Nodes expanded: 7
+0	0	0	*	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 3
+IDS Nodes expanded: 7
+0	0	A	0	
+0	0	*	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 3
+IDS Nodes expanded: 7
+0	*	0	0	
+0	0	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 2
+IDS Nodes expanded: 7
+0	0	0	0	
+0	*	A	0	
+0	B	0	0	
+0	C	0	0	
+------------
+Depth : 3
+IDS Nodes expanded: 8
+0	0	0	0	
+0	A	*	0	
+0	B	0	0	
+0	C	0	0	
+------------
+IDS Nodes expanded: 8

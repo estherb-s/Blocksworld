@@ -1,0 +1,821 @@
+
+A* Nodes expanded: 324
+
+
+Optimal Depth: 1
+A* Graph Nodes expanded: 1
+Optimal Depth: 2
+A* Graph Nodes expanded: 4
+Optimal Depth: 3
+A* Graph Nodes expanded: 6
+Optimal Depth: 4
+A* Graph Nodes expanded: 8
+Optimal Depth: 5
+A* Graph Nodes expanded: 12
+Optimal Depth: 6
+A* Graph Nodes expanded: 28
+Optimal Depth: 7
+A* Graph Nodes expanded: 38
+Optimal Depth: 8
+A* Graph Nodes expanded: 58
+Optimal Depth: 9
+A* Graph Nodes expanded: 91
+Optimal Depth: 10
+A* Graph Nodes expanded: 132
+Optimal Depth: 11
+A* Graph Nodes expanded: 319
+Optimal Depth: 12
+A* Graph Nodes expanded: 352
+Optimal Depth: 13
+A* Graph Nodes expanded: 500
+Optimal Depth: 14
+A* Graph Nodes expanded: 324
+
+Optimal Depth: 1
+DFGS Nodes expanded: 18177
+Optimal Depth: 2
+DFGS Nodes expanded: 7989
+Optimal Depth: 3
+DFGS Nodes expanded: 18171
+Optimal Depth: 4
+DFGS Nodes expanded: 7130
+Optimal Depth: 5
+DFGS Nodes expanded: 757
+Optimal Depth: 6
+DFGS Nodes expanded: 3102
+Optimal Depth: 7
+DFGS Nodes expanded: 14811
+Optimal Depth: 8
+DFGS Nodes expanded: 1619
+Optimal Depth: 9
+DFGS Nodes expanded: 24234
+Optimal Depth: 10
+DFGS Nodes expanded: 5044
+Optimal Depth: 11
+DFGS Nodes expanded: 4099
+Optimal Depth: 12
+DFGS Nodes expanded: 5560
+Optimal Depth: 13
+DFGS Nodes expanded: 15432
+Optimal Depth: 14
+DFGS Nodes expanded: 18759
+Optimal Depth: 1
+DFGS Nodes expanded: 1
+Optimal Depth: 2
+DFGS Nodes expanded: 12132
+Optimal Depth: 3
+DFGS Nodes expanded: 27500
+Optimal Depth: 4
+DFGS Nodes expanded: 23812
+Optimal Depth: 5
+DFGS Nodes expanded: 4733
+Optimal Depth: 6
+DFGS Nodes expanded: 26413
+Optimal Depth: 7
+DFGS Nodes expanded: 4112
+Optimal Depth: 8
+DFGS Nodes expanded: 6792
+Optimal Depth: 9
+DFGS Nodes expanded: 22244
+Optimal Depth: 10
+DFGS Nodes expanded: 14150
+Optimal Depth: 11
+DFGS Nodes expanded: 9804
+Optimal Depth: 12
+DFGS Nodes expanded: 542
+Optimal Depth: 13
+DFGS Nodes expanded: 16083
+Optimal Depth: 14
+DFGS Nodes expanded: 3577
+
+Optimal Depth: 1
+A* Graph Nodes expanded: 1
+Optimal Depth: 2
+A* Graph Nodes expanded: 4
+Optimal Depth: 3
+A* Graph Nodes expanded: 6
+Optimal Depth: 4
+A* Graph Nodes expanded: 8
+Optimal Depth: 5
+A* Graph Nodes expanded: 12
+Optimal Depth: 6
+A* Graph Nodes expanded: 28
+Optimal Depth: 7
+A* Graph Nodes expanded: 38
+Optimal Depth: 8
+A* Graph Nodes expanded: 58
+Optimal Depth: 9
+A* Graph Nodes expanded: 91
+Optimal Depth: 10
+A* Graph Nodes expanded: 132
+Optimal Depth: 11
+A* Graph Nodes expanded: 319
+Optimal Depth: 12
+A* Graph Nodes expanded: 352
+Optimal Depth: 13
+A* Graph Nodes expanded: 500
+Optimal Depth: 14
+A* Graph Nodes expanded: 324
+
+Optimal Depth: 1
+A* Graph Nodes expanded: 1
+Optimal Depth: 2
+A* Graph Nodes expanded: 4
+Optimal Depth: 3
+A* Graph Nodes expanded: 6
+Optimal Depth: 4
+A* Graph Nodes expanded: 8
+Optimal Depth: 5
+A* Graph Nodes expanded: 12
+Optimal Depth: 6
+A* Graph Nodes expanded: 28
+Optimal Depth: 7
+A* Graph Nodes expanded: 38
+Optimal Depth: 8
+A* Graph Nodes expanded: 58
+Optimal Depth: 9
+A* Graph Nodes expanded: 91
+Optimal Depth: 10
+A* Graph Nodes expanded: 132
+Optimal Depth: 11
+A* Graph Nodes expanded: 319
+Optimal Depth: 12
+A* Graph Nodes expanded: 352
+Optimal Depth: 13
+A* Graph Nodes expanded: 500
+Optimal Depth: 14
+A* Graph Nodes expanded: 324
+
+Optimal Depth: 1
+BFGS Nodes expanded: 4
+Optimal Depth: 2
+BFGS Nodes expanded: 5
+Optimal Depth: 3
+BFGS Nodes expanded: 8
+Optimal Depth: 4
+BFGS Nodes expanded: 19
+Optimal Depth: 5
+BFGS Nodes expanded: 22
+Optimal Depth: 6
+BFGS Nodes expanded: 98
+Optimal Depth: 7
+BFGS Nodes expanded: 143
+Optimal Depth: 8
+BFGS Nodes expanded: 384
+Optimal Depth: 9
+BFGS Nodes expanded: 466
+Optimal Depth: 10
+BFGS Nodes expanded: 673
+Optimal Depth: 11
+BFGS Nodes expanded: 1329
+Optimal Depth: 12
+BFGS Nodes expanded: 2867
+Optimal Depth: 13
+BFGS Nodes expanded: 2453
+Optimal Depth: 14
+BFGS Nodes expanded: 1766
+
+Optimal Depth: 1
+BFGS Nodes expanded: 3
+Optimal Depth: 2
+BFGS Nodes expanded: 9
+Optimal Depth: 3
+BFGS Nodes expanded: 8
+Optimal Depth: 4
+BFGS Nodes expanded: 28
+Optimal Depth: 5
+BFGS Nodes expanded: 23
+Optimal Depth: 6
+BFGS Nodes expanded: 106
+Optimal Depth: 7
+BFGS Nodes expanded: 151
+Optimal Depth: 8
+BFGS Nodes expanded: 350
+Optimal Depth: 9
+BFGS Nodes expanded: 394
+Optimal Depth: 10
+BFGS Nodes expanded: 752
+Optimal Depth: 11
+BFGS Nodes expanded: 1600
+Optimal Depth: 12
+BFGS Nodes expanded: 2941
+Optimal Depth: 13
+BFGS Nodes expanded: 2541
+Optimal Depth: 14
+BFGS Nodes expanded: 1794
+Optimal Depth: 1
+BFGS Nodes expanded: 4
+Optimal Depth: 2
+BFGS Nodes expanded: 9
+Optimal Depth: 3
+BFGS Nodes expanded: 8
+Optimal Depth: 4
+BFGS Nodes expanded: 19
+Optimal Depth: 5
+BFGS Nodes expanded: 39
+Optimal Depth: 6
+BFGS Nodes expanded: 134
+Optimal Depth: 7
+BFGS Nodes expanded: 125
+Optimal Depth: 8
+BFGS Nodes expanded: 328
+Optimal Depth: 9
+BFGS Nodes expanded: 392
+Optimal Depth: 10
+BFGS Nodes expanded: 678
+Optimal Depth: 11
+BFGS Nodes expanded: 1599
+Optimal Depth: 12
+BFGS Nodes expanded: 2086
+Optimal Depth: 13
+BFGS Nodes expanded: 2840
+Optimal Depth: 14
+BFGS Nodes expanded: 1745
+Optimal Depth: 1
+BFGS Nodes expanded: 2
+Optimal Depth: 2
+BFGS Nodes expanded: 5
+Optimal Depth: 3
+BFGS Nodes expanded: 9
+Optimal Depth: 4
+BFGS Nodes expanded: 26
+Optimal Depth: 5
+BFGS Nodes expanded: 23
+Optimal Depth: 6
+BFGS Nodes expanded: 98
+Optimal Depth: 7
+BFGS Nodes expanded: 137
+Optimal Depth: 8
+BFGS Nodes expanded: 448
+Optimal Depth: 9
+BFGS Nodes expanded: 456
+Optimal Depth: 10
+BFGS Nodes expanded: 616
+Optimal Depth: 11
+BFGS Nodes expanded: 1674
+Optimal Depth: 12
+BFGS Nodes expanded: 2944
+Optimal Depth: 13
+BFGS Nodes expanded: 2677
+Optimal Depth: 14
+BFGS Nodes expanded: 2214
+Optimal Depth: 1
+BFGS Nodes expanded: 2
+Optimal Depth: 2
+BFGS Nodes expanded: 8
+Optimal Depth: 3
+BFGS Nodes expanded: 10
+Optimal Depth: 4
+BFGS Nodes expanded: 20
+Optimal Depth: 5
+BFGS Nodes expanded: 23
+Optimal Depth: 6
+BFGS Nodes expanded: 120
+Optimal Depth: 7
+BFGS Nodes expanded: 143
+Optimal Depth: 8
+BFGS Nodes expanded: 264
+Optimal Depth: 9
+BFGS Nodes expanded: 384
+Optimal Depth: 10
+BFGS Nodes expanded: 621
+Optimal Depth: 11
+BFGS Nodes expanded: 1670
+Optimal Depth: 12
+BFGS Nodes expanded: 2947
+Optimal Depth: 13
+BFGS Nodes expanded: 2498
+Optimal Depth: 14
+BFGS Nodes expanded: 2147
+Optimal Depth: 1
+BFGS Nodes expanded: 3
+Optimal Depth: 2
+BFGS Nodes expanded: 6
+Optimal Depth: 3
+BFGS Nodes expanded: 10
+Optimal Depth: 4
+BFGS Nodes expanded: 30
+Optimal Depth: 5
+BFGS Nodes expanded: 22
+Optimal Depth: 6
+BFGS Nodes expanded: 128
+Optimal Depth: 7
+BFGS Nodes expanded: 119
+Optimal Depth: 8
+BFGS Nodes expanded: 326
+Optimal Depth: 9
+BFGS Nodes expanded: 382
+Optimal Depth: 10
+BFGS Nodes expanded: 702
+Optimal Depth: 11
+BFGS Nodes expanded: 1362
+Optimal Depth: 12
+BFGS Nodes expanded: 2842
+Optimal Depth: 13
+BFGS Nodes expanded: 2198
+Optimal Depth: 14
+BFGS Nodes expanded: 1674
+Optimal Depth: 1
+BFGS Nodes expanded: 4
+Optimal Depth: 2
+BFGS Nodes expanded: 8
+Optimal Depth: 3
+BFGS Nodes expanded: 7
+Optimal Depth: 4
+BFGS Nodes expanded: 29
+Optimal Depth: 5
+BFGS Nodes expanded: 29
+Optimal Depth: 6
+BFGS Nodes expanded: 120
+Optimal Depth: 7
+BFGS Nodes expanded: 137
+Optimal Depth: 8
+BFGS Nodes expanded: 339
+Optimal Depth: 9
+BFGS Nodes expanded: 460
+Optimal Depth: 10
+BFGS Nodes expanded: 723
+Optimal Depth: 11
+BFGS Nodes expanded: 1577
+Optimal Depth: 12
+BFGS Nodes expanded: 2953
+Optimal Depth: 13
+BFGS Nodes expanded: 2700
+Optimal Depth: 14
+BFGS Nodes expanded: 2243
+Optimal Depth: 1
+BFGS Nodes expanded: 2
+Optimal Depth: 2
+BFGS Nodes expanded: 7
+Optimal Depth: 3
+BFGS Nodes expanded: 10
+Optimal Depth: 4
+BFGS Nodes expanded: 29
+Optimal Depth: 5
+BFGS Nodes expanded: 23
+Optimal Depth: 6
+BFGS Nodes expanded: 143
+Optimal Depth: 7
+BFGS Nodes expanded: 142
+Optimal Depth: 8
+BFGS Nodes expanded: 385
+Optimal Depth: 9
+BFGS Nodes expanded: 407
+Optimal Depth: 10
+BFGS Nodes expanded: 651
+Optimal Depth: 11
+BFGS Nodes expanded: 1623
+Optimal Depth: 12
+BFGS Nodes expanded: 2873
+Optimal Depth: 13
+BFGS Nodes expanded: 2309
+Optimal Depth: 14
+BFGS Nodes expanded: 2021
+Optimal Depth: 1
+BFGS Nodes expanded: 4
+Optimal Depth: 2
+BFGS Nodes expanded: 5
+Optimal Depth: 3
+BFGS Nodes expanded: 8
+Optimal Depth: 4
+BFGS Nodes expanded: 18
+Optimal Depth: 5
+BFGS Nodes expanded: 32
+Optimal Depth: 6
+BFGS Nodes expanded: 128
+Optimal Depth: 7
+BFGS Nodes expanded: 118
+Optimal Depth: 8
+BFGS Nodes expanded: 313
+Optimal Depth: 9
+BFGS Nodes expanded: 360
+Optimal Depth: 10
+BFGS Nodes expanded: 675
+Optimal Depth: 11
+BFGS Nodes expanded: 1657
+Optimal Depth: 12
+BFGS Nodes expanded: 2994
+Optimal Depth: 13
+BFGS Nodes expanded: 2187
+Optimal Depth: 14
+BFGS Nodes expanded: 1696
+Optimal Depth: 1
+BFGS Nodes expanded: 5
+Optimal Depth: 2
+BFGS Nodes expanded: 8
+Optimal Depth: 3
+BFGS Nodes expanded: 8
+Optimal Depth: 4
+BFGS Nodes expanded: 28
+Optimal Depth: 5
+BFGS Nodes expanded: 21
+Optimal Depth: 6
+BFGS Nodes expanded: 98
+Optimal Depth: 7
+BFGS Nodes expanded: 126
+Optimal Depth: 8
+BFGS Nodes expanded: 318
+Optimal Depth: 9
+BFGS Nodes expanded: 365
+Optimal Depth: 10
+BFGS Nodes expanded: 608
+Optimal Depth: 11
+BFGS Nodes expanded: 1655
+Optimal Depth: 12
+BFGS Nodes expanded: 2869
+Optimal Depth: 13
+BFGS Nodes expanded: 2809
+Optimal Depth: 14
+BFGS Nodes expanded: 2141
+
+
+Optimal Depth: 1
+DFGS Nodes expanded: 6066
+Optimal Depth: 2
+DFGS Nodes expanded: 24324
+Optimal Depth: 3
+DFGS Nodes expanded: 18268
+Optimal Depth: 4
+DFGS Nodes expanded: 844
+Optimal Depth: 5
+DFGS Nodes expanded: 8265
+Optimal Depth: 6
+DFGS Nodes expanded: 23360
+Optimal Depth: 7
+DFGS Nodes expanded: 27045
+Optimal Depth: 8
+DFGS Nodes expanded: 19929
+Optimal Depth: 9
+DFGS Nodes expanded: 5757
+Optimal Depth: 10
+DFGS Nodes expanded: 5746
+Optimal Depth: 11
+DFGS Nodes expanded: 10657
+Optimal Depth: 12
+DFGS Nodes expanded: 5158
+Optimal Depth: 13
+DFGS Nodes expanded: 2206
+Optimal Depth: 14
+DFGS Nodes expanded: 26360
+
+Optimal Depth: 1
+DFGS Nodes expanded: 3744
+Optimal Depth: 2
+DFGS Nodes expanded: 2
+Optimal Depth: 3
+DFGS Nodes expanded: 20656
+Optimal Depth: 4
+DFGS Nodes expanded: 2769
+Optimal Depth: 5
+DFGS Nodes expanded: 5
+Optimal Depth: 6
+DFGS Nodes expanded: 8757
+Optimal Depth: 7
+DFGS Nodes expanded: 8152
+Optimal Depth: 8
+DFGS Nodes expanded: 27999
+Optimal Depth: 9
+DFGS Nodes expanded: 10926
+Optimal Depth: 10
+DFGS Nodes expanded: 353
+Optimal Depth: 11
+DFGS Nodes expanded: 4583
+Optimal Depth: 12
+DFGS Nodes expanded: 10979
+Optimal Depth: 13
+DFGS Nodes expanded: 9504
+Optimal Depth: 14
+DFGS Nodes expanded: 22538
+
+Optimal Depth: 1
+DFGS Nodes expanded: 1
+Optimal Depth: 2
+DFGS Nodes expanded: 26680
+Optimal Depth: 3
+DFGS Nodes expanded: 9843
+Optimal Depth: 4
+DFGS Nodes expanded: 14
+Optimal Depth: 5
+DFGS Nodes expanded: 5
+Optimal Depth: 6
+DFGS Nodes expanded: 15909
+Optimal Depth: 7
+DFGS Nodes expanded: 10487
+Optimal Depth: 8
+DFGS Nodes expanded: 17521
+Optimal Depth: 9
+DFGS Nodes expanded: 11481
+Optimal Depth: 10
+DFGS Nodes expanded: 4365
+Optimal Depth: 11
+DFGS Nodes expanded: 2521
+Optimal Depth: 12
+DFGS Nodes expanded: 13446
+Optimal Depth: 13
+DFGS Nodes expanded: 17227
+Optimal Depth: 14
+DFGS Nodes expanded: 8219
+
+Optimal Depth: 1
+DFGS Nodes expanded: 1
+Optimal Depth: 2
+DFGS Nodes expanded: 16411
+Optimal Depth: 3
+DFGS Nodes expanded: 2789
+Optimal Depth: 4
+DFGS Nodes expanded: 27493
+Optimal Depth: 5
+DFGS Nodes expanded: 1299
+Optimal Depth: 6
+DFGS Nodes expanded: 9700
+Optimal Depth: 7
+DFGS Nodes expanded: 15591
+Optimal Depth: 8
+DFGS Nodes expanded: 20741
+Optimal Depth: 9
+DFGS Nodes expanded: 9282
+Optimal Depth: 10
+DFGS Nodes expanded: 25258
+Optimal Depth: 11
+DFGS Nodes expanded: 22520
+Optimal Depth: 12
+DFGS Nodes expanded: 3504
+Optimal Depth: 13
+DFGS Nodes expanded: 433
+Optimal Depth: 14
+DFGS Nodes expanded: 9067
+
+Optimal Depth: 1
+DFGS Nodes expanded: 10621
+Optimal Depth: 2
+DFGS Nodes expanded: 17044
+Optimal Depth: 3
+DFGS Nodes expanded: 2256
+Optimal Depth: 4
+DFGS Nodes expanded: 24586
+Optimal Depth: 5
+DFGS Nodes expanded: 3271
+Optimal Depth: 6
+DFGS Nodes expanded: 3291
+Optimal Depth: 7
+DFGS Nodes expanded: 279
+Optimal Depth: 8
+DFGS Nodes expanded: 13401
+Optimal Depth: 9
+DFGS Nodes expanded: 23204
+Optimal Depth: 10
+DFGS Nodes expanded: 2124
+Optimal Depth: 11
+DFGS Nodes expanded: 15582
+Optimal Depth: 12
+DFGS Nodes expanded: 13556
+Optimal Depth: 13
+DFGS Nodes expanded: 24805
+Optimal Depth: 14
+DFGS Nodes expanded: 13639
+
+Optimal Depth: 1
+DFGS Nodes expanded: 16375
+Optimal Depth: 2
+DFGS Nodes expanded: 10215
+Optimal Depth: 3
+DFGS Nodes expanded: 14278
+Optimal Depth: 4
+DFGS Nodes expanded: 11195
+Optimal Depth: 5
+DFGS Nodes expanded: 18000
+Optimal Depth: 6
+DFGS Nodes expanded: 11651
+Optimal Depth: 7
+DFGS Nodes expanded: 14015
+Optimal Depth: 8
+DFGS Nodes expanded: 5674
+Optimal Depth: 9
+DFGS Nodes expanded: 10035
+Optimal Depth: 10
+DFGS Nodes expanded: 14171
+Optimal Depth: 11
+DFGS Nodes expanded: 8048
+Optimal Depth: 12
+DFGS Nodes expanded: 18958
+Optimal Depth: 13
+DFGS Nodes expanded: 2504
+Optimal Depth: 14
+DFGS Nodes expanded: 8169
+
+Optimal Depth: 1
+DFGS Nodes expanded: 2553
+Optimal Depth: 2
+DFGS Nodes expanded: 15413
+Optimal Depth: 3
+DFGS Nodes expanded: 3
+Optimal Depth: 4
+DFGS Nodes expanded: 6337
+Optimal Depth: 5
+DFGS Nodes expanded: 14648
+Optimal Depth: 6
+DFGS Nodes expanded: 10491
+Optimal Depth: 7
+DFGS Nodes expanded: 22071
+Optimal Depth: 8
+DFGS Nodes expanded: 14263
+Optimal Depth: 9
+DFGS Nodes expanded: 12893
+Optimal Depth: 10
+DFGS Nodes expanded: 18561
+Optimal Depth: 11
+DFGS Nodes expanded: 9726
+Optimal Depth: 12
+DFGS Nodes expanded: 25309
+Optimal Depth: 13
+DFGS Nodes expanded: 11615
+Optimal Depth: 14
+DFGS Nodes expanded: 14429
+
+Optimal Depth: 1
+DFGS Nodes expanded: 1973
+Optimal Depth: 2
+DFGS Nodes expanded: 12638
+Optimal Depth: 3
+DFGS Nodes expanded: 19549
+Optimal Depth: 4
+DFGS Nodes expanded: 4206
+Optimal Depth: 5
+DFGS Nodes expanded: 20993
+Optimal Depth: 6
+DFGS Nodes expanded: 1159
+Optimal Depth: 7
+DFGS Nodes expanded: 23861
+Optimal Depth: 8
+DFGS Nodes expanded: 3907
+Optimal Depth: 9
+DFGS Nodes expanded: 30078
+Optimal Depth: 10
+DFGS Nodes expanded: 7913
+Optimal Depth: 11
+DFGS Nodes expanded: 14909
+Optimal Depth: 12
+DFGS Nodes expanded: 21884
+Optimal Depth: 13
+DFGS Nodes expanded: 4490
+Optimal Depth: 14
+DFGS Nodes expanded: 19439
+
+Optimal Depth: 1
+DFGS Nodes expanded: 1
+Optimal Depth: 2
+DFGS Nodes expanded: 12531
+Optimal Depth: 3
+DFGS Nodes expanded: 5979
+Optimal Depth: 4
+DFGS Nodes expanded: 18932
+Optimal Depth: 5
+DFGS Nodes expanded: 13179
+Optimal Depth: 6
+DFGS Nodes expanded: 31129
+Optimal Depth: 7
+DFGS Nodes expanded: 24100
+Optimal Depth: 8
+DFGS Nodes expanded: 4976
+Optimal Depth: 9
+DFGS Nodes expanded: 7891
+Optimal Depth: 10
+DFGS Nodes expanded: 17441
+Optimal Depth: 11
+DFGS Nodes expanded: 16090
+Optimal Depth: 12
+DFGS Nodes expanded: 3963
+Optimal Depth: 13
+DFGS Nodes expanded: 2370
+Optimal Depth: 14
+DFGS Nodes expanded: 17478
+
+Optimal Depth: 1
+DFGS Nodes expanded: 5232
+Optimal Depth: 2
+DFGS Nodes expanded: 19575
+Optimal Depth: 3
+DFGS Nodes expanded: 3
+Optimal Depth: 4
+DFGS Nodes expanded: 11930
+Optimal Depth: 5
+DFGS Nodes expanded: 6025
+Optimal Depth: 6
+DFGS Nodes expanded: 11082
+Optimal Depth: 7
+DFGS Nodes expanded: 10843
+Optimal Depth: 8
+DFGS Nodes expanded: 13869
+Optimal Depth: 9
+DFGS Nodes expanded: 57
+Optimal Depth: 10
+DFGS Nodes expanded: 13156
+Optimal Depth: 11
+DFGS Nodes expanded: 8839
+Optimal Depth: 12
+DFGS Nodes expanded: 2007
+Optimal Depth: 13
+DFGS Nodes expanded: 14602
+Optimal Depth: 14
+DFGS Nodes expanded: 15484
+
+
+
+Optimal Depth: 10
+DFS Nodes expanded: 153
+
+Optimal Depth: 1
+DFS Nodes expanded: 1
+Optimal Depth: 2
+DFS Nodes expanded: 2450
+Optimal Depth: 3
+DFS Nodes expanded: 54013
+Optimal Depth: 4
+DFS Nodes expanded: 42136
+Optimal Depth: 5
+DFS Nodes expanded: 11331
+Optimal Depth: 6
+DFS Nodes expanded: 141472
+Optimal Depth: 7
+DFS Nodes expanded: 1418
+Optimal Depth: 8
+DFS Nodes expanded: 6707
+Optimal Depth: 9
+DFS Nodes expanded: 58423
+Optimal Depth: 10
+DFS Nodes expanded: 40861
+Optimal Depth: 11
+DFS Nodes expanded: 14741
+Optimal Depth: 12
+DFS Nodes expanded: 32897
+Optimal Depth: 13
+DFS Nodes expanded: 20741
+Optimal Depth: 14
+DFS Nodes expanded: 20571
+
+
+Optimal Depth: 10
+DFS Nodes expanded: 79183
+Optimal Depth: 10
+DFS Nodes expanded: 54145
+Optimal Depth: 10
+DFS Nodes expanded: 70221
+Optimal Depth: 10
+DFS Nodes expanded: 12959
+Optimal Depth: 10
+DFS Nodes expanded: 3431
+Optimal Depth: 10
+DFS Nodes expanded: 13067
+Optimal Depth: 10
+DFS Nodes expanded: 103431
+Optimal Depth: 10
+DFS Nodes expanded: 35008
+Optimal Depth: 10
+DFS Nodes expanded: 8724
+Optimal Depth: 10
+A* Nodes expanded: 2026
+Optimal Depth: 10
+A* Nodes expanded: 2026
+Optimal Depth: 10
+BFS Nodes expanded: 50009
+Optimal Depth: 10
+BFS Nodes expanded: 34803
+Optimal Depth: 10
+BFS Nodes expanded: 67795
+Optimal Depth: 10
+BFS Nodes expanded: 56127
+Optimal Depth: 10
+BFS Nodes expanded: 81124
+Optimal Depth: 10
+BFS Nodes expanded: 69646
+Optimal Depth: 10
+BFS Nodes expanded: 94905
+Optimal Depth: 10
+BFS Nodes expanded: 48104
+Optimal Depth: 10
+BFS Nodes expanded: 71624
+Optimal Depth: 10
+BFS Nodes expanded: 72512
+
+Optimal Depth: 10
+IDS Nodes expanded: 34997
+Optimal Depth: 10
+IDS Nodes expanded: 24346
+Optimal Depth: 10
+IDS Nodes expanded: 36798
+Optimal Depth: 10
+IDS Nodes expanded: 28052
+Optimal Depth: 10
+IDS Nodes expanded: 20835
+Optimal Depth: 10
+IDS Nodes expanded: 36853
+Optimal Depth: 10
+IDS Nodes expanded: 41836
+Optimal Depth: 10
+IDS Nodes expanded: 19751
+Optimal Depth: 10
+IDS Nodes expanded: 35087
+Optimal Depth: 10
+IDS Nodes expanded: 37778
+Optimal Depth: 10
+IDS Nodes expanded: 28491

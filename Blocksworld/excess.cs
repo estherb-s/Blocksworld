@@ -148,3 +148,8 @@
         //     return moves;
 
         // }
+
+// Console.WriteLine("Depth : {0}", current.depth);
+//                 Console.WriteLine("DFS Nodes expanded: {0}", nodesExpanded);
+//                 current.Print2DArray(current.state);
+//                 Console.WriteLine("------------");

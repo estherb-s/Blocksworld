@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace Blocksworld
 {
@@ -14,25 +15,11 @@ namespace Blocksworld
         /// <summary> position of agent </summary>
         public (int x, int y) agent { get; }
 
-        /// <summary> position of A </summary>
-        public (int x, int y) posA { get; }
-        /// <summary> position of B </summary>
-        public (int x, int y) posB { get; }
-        /// <summary> position of C </summary>
-        public (int x, int y) posC { get; }
         /// <summary> List of sub-nodes </summary>
         public List<Node> children;
         public int depth;
         public Node parent;
-
-        public int pathCost;
-        static char[,] startState = new char[,] 
-        {
-            {'0', '0','0', '0'},
-            {'0', '0', '0', '0'},
-            {'0', '0', '0', '0'},
-            {'A', 'B', 'C', '*'}
-        };
+    
 
         /// <summary>
         /// Defines the Node and its properties
@@ -41,12 +28,8 @@ namespace Blocksworld
         {
             this.state = startState;
             this.agent = agentPos;
-            this.posA = posA;
-            this.posB = posB;
-            this.posC = posC;
             this.parent = parent;
             this.depth = depth;
-            // this.pathCost = pathCost;
         }    
 
         private List<E> ShuffleList<E>(List<E> inputList)
@@ -101,7 +84,7 @@ namespace Blocksworld
         }
      
         /// <summary>
-        /// Moves the agent in the given direction, modifying this instances state.
+        /// Moves the agent in the given direction, modifying this instance's state.
         /// </summary>
         public char[,] MoveAgent(string direction, out (int x, int y) nextMove)
         {
@@ -117,7 +100,6 @@ namespace Blocksworld
                     }
                     else
                     {
-                        // Console.WriteLine("cannot move up!");
                         return null;
                     }
                     break;
@@ -130,7 +112,6 @@ namespace Blocksworld
                     }
                     else
                     {
-                        // Console.WriteLine("cannot move down!");
                         return null;
                     }
                     break;
@@ -143,7 +124,6 @@ namespace Blocksworld
                     }
                     else
                     {
-                        // Console.WriteLine("cannot move left!");
                         return null;
                     }
                     break;
@@ -156,7 +136,6 @@ namespace Blocksworld
                     }
                     else
                     {
-                        // Console.WriteLine("cannot move right!");
                         return null;
                     }
                     break;
@@ -164,13 +143,11 @@ namespace Blocksworld
                 default:
                     throw new ArgumentException($"Unrecognised direction: {direction}.");
             }
-
-            // Print2DArray(moved);
             return moved;
         }
 
         /// <summary>
-        /// Creates a new Node, where the agent is moved to the given position.
+        /// Creates a new state, where the agent is moved to the given position.
         /// </summary>
         private char[,] Swap((int x, int y) newPos, char[,] board)
         {
@@ -180,9 +157,7 @@ namespace Blocksworld
             // perform swap in copy
             var oldPos = agent;
             copy[oldPos.x, oldPos.y] = board[newPos.x, newPos.y];
-            copy[newPos.x, newPos.y] = board[agent.x, agent.y];
-            // update position of agent
-            // agent  = (newPos.x, newPos.y);
+            copy[newPos.x, newPos.y] = board[agent.x, agent.y];            
             // return new node made from that state
             return copy;
         }
@@ -263,17 +238,16 @@ namespace Blocksworld
                 }
             }
             return positions;
-
         }
 
-        public (int x, int y) GetAgentPos(char[,] state)
+        public static (int x, int y) GetAgentPos(char[,] currentState)
         {
             (int x, int y) agentPos = (0,0);
-            for (int i = 0; i < width; i++) 
+            for (int i = 0; i < currentState.GetLength(0); i++) 
             { 
-                for (int j = 0; j < height; j++)
+                for (int j = 0; j < currentState.GetLength(1); j++)
                 {
-                    if (state[i,j] == '*')
+                    if (currentState[i,j] == '*')
                     {
                         agentPos = (i,j);
                     }
@@ -282,64 +256,23 @@ namespace Blocksworld
             return agentPos;
         }
 
-        // public List<Node> NodePath(Node node)
-        // {
-        //     List<Node> path = new List<Node>();
-        //     Node currentNode = node;
-        //     while (currentNode.parent != null)
-        //     {
-        //         path.Add(currentNode);
-        //         currentNode = currentNode.parent;  
-        //     }
-        //     path.Reverse();
-        //     return path;
-        // }
-
-        public char[,] getState()
-        {
-            return state;
+        public string BuildHashCode() {
+            StringBuilder sb = new StringBuilder();
+            // adds then creates a string so is more memory efficient
+            for (int i = 0; i < this.state.GetLength(0); i++) 
+            { 
+                for (int j = 0; j < this.state.GetLength(1); j++)
+                {
+                    sb.Append(this.state[i,j]);
+                }
+            }
+            return sb.ToString();
         }
-
-        // public (int x, int y) getPosA()
-        // {
-        //     for (int i = 0; i < width; i++) 
-        //     { 
-        //         for (int j = 0; j < height; j++)
-        //         {
-        //             if (state[i, j] == 'A') { (int x, int y) posA = (i,j); }
-        //         }
-        //     }
-        //     return posA;
-        // }
-
-        // public (int x, int y) getPosB()
-        // {
-        //     for (int i = 0; i < width; i++) 
-        //     { 
-        //         for (int j = 0; j < height; j++)
-        //         {
-        //             if (state[i, j] == 'B') { (int x, int y) posB = (i,j); }
-        //         }
-        //     }
-        //     return posB;
-        // }
-
-        // public (int x, int y) getPosC()
-        // {
-        //     for (int i = 0; i < width; i++) 
-        //     { 
-        //         for (int j = 0; j < height; j++)
-        //         {
-        //             if (state[i, j] == 'C') { (int x, int y) posC = (i,j); }
-        //         }
-        //     }
-        //     return posC;
-        // }
-
-
-
     }
 }
+
+
+
 
 
         /// <summary>

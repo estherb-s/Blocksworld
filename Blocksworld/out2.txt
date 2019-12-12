@@ -1,0 +1,748 @@
+Optimal Depth: 1 A* Nodes expanded: 1
+Optimal Depth: 2 A* Nodes expanded: 4
+Optimal Depth: 3 A* Nodes expanded: 9
+Optimal Depth: 4 A* Nodes expanded: 14
+Optimal Depth: 5 A* Nodes expanded: 67
+Optimal Depth: 6 A* Nodes expanded: 96
+Optimal Depth: 7 A* Nodes expanded: 218
+Optimal Depth: 8 A* Nodes expanded: 223
+Optimal Depth: 9 A* Nodes expanded: 1207
+Optimal Depth: 10 A* Nodes expanded: 17060
+Optimal Depth: 11 A* Nodes expanded: 9847
+Optimal Depth: 12 A* Nodes expanded: 19320
+Optimal Depth: 13 A* Nodes expanded: 34136
+Optimal Depth: 14 A* Nodes expanded: 27388
+
+Optimal Depth: 1 A* Nodes expanded: 1
+Optimal Depth: 2 A* Nodes expanded: 4
+Optimal Depth: 3 A* Nodes expanded: 9
+Optimal Depth: 4 A* Nodes expanded: 14
+Optimal Depth: 5 A* Nodes expanded: 67
+Optimal Depth: 6 A* Nodes expanded: 96
+Optimal Depth: 7 A* Nodes expanded: 218
+Optimal Depth: 8 A* Nodes expanded: 223
+Optimal Depth: 9 A* Nodes expanded: 1207
+Optimal Depth: 10 A* Nodes expanded: 17060
+Optimal Depth: 11 A* Nodes expanded: 9847
+Optimal Depth: 12 A* Nodes expanded: 19320
+Optimal Depth: 13 A* Nodes expanded: 34136
+Optimal Depth: 14 A* Nodes expanded: 27388
+
+Optimal Depth: 1 A* Nodes expanded: 1
+Optimal Depth: 2 A* Nodes expanded: 4
+Optimal Depth: 3 A* Nodes expanded: 9
+Optimal Depth: 4 A* Nodes expanded: 14
+Optimal Depth: 5 A* Nodes expanded: 67
+Optimal Depth: 6 A* Nodes expanded: 96
+Optimal Depth: 7 A* Nodes expanded: 218
+Optimal Depth: 8 A* Nodes expanded: 223
+Optimal Depth: 9 A* Nodes expanded: 1207
+Optimal Depth: 10 A* Nodes expanded: 17060
+Optimal Depth: 11 A* Nodes expanded: 9847
+Optimal Depth: 12 A* Nodes expanded: 19320
+Optimal Depth: 13 A* Nodes expanded: 34136
+Optimal Depth: 14 A* Nodes expanded: 27388
+
+
+1
+Optimal Depth: 1 IDS Nodes expanded: 1
+Optimal Depth: 2 IDS Nodes expanded: 5
+Optimal Depth: 3 IDS Nodes expanded: 7
+Optimal Depth: 4 IDS Nodes expanded: 19
+Optimal Depth: 5 IDS Nodes expanded: 60
+Optimal Depth: 6 IDS Nodes expanded: 510
+Optimal Depth: 7 IDS Nodes expanded: 705
+Optimal Depth: 8 IDS Nodes expanded: 3513
+Optimal Depth: 9 IDS Nodes expanded: 4919
+Optimal Depth: 10 IDS Nodes expanded: 221959
+Optimal Depth: 11 IDS Nodes expanded: 74139
+Optimal Depth: 12 IDS Nodes expanded: 539211
+Optimal Depth: 13 IDS Nodes expanded: 1053872
+Optimal Depth: 14 IDS Nodes expanded: 2070754
+2
+Optimal Depth: 1 IDS Nodes expanded: 1
+Optimal Depth: 2 IDS Nodes expanded: 3
+Optimal Depth: 3 IDS Nodes expanded: 9
+Optimal Depth: 4 IDS Nodes expanded: 30
+Optimal Depth: 5 IDS Nodes expanded: 59
+Optimal Depth: 6 IDS Nodes expanded: 313
+Optimal Depth: 7 IDS Nodes expanded: 526
+Optimal Depth: 8 IDS Nodes expanded: 3795
+Optimal Depth: 9 IDS Nodes expanded: 6555
+Optimal Depth: 10 IDS Nodes expanded: 164451
+Optimal Depth: 11 IDS Nodes expanded: 48518
+Optimal Depth: 12 IDS Nodes expanded: 561644
+Optimal Depth: 13 IDS Nodes expanded: 1237967
+Optimal Depth: 14 IDS Nodes expanded: 3584046
+3
+Optimal Depth: 1 IDS Nodes expanded: 1
+Optimal Depth: 2 IDS Nodes expanded: 4
+Optimal Depth: 3 IDS Nodes expanded: 8
+Optimal Depth: 4 IDS Nodes expanded: 33
+Optimal Depth: 5 IDS Nodes expanded: 76
+Optimal Depth: 6 IDS Nodes expanded: 629
+Optimal Depth: 7 IDS Nodes expanded: 682
+Optimal Depth: 8 IDS Nodes expanded: 3366
+Optimal Depth: 9 IDS Nodes expanded: 6832
+Optimal Depth: 10 IDS Nodes expanded: 246101
+Optimal Depth: 11 IDS Nodes expanded: 61516
+Optimal Depth: 12 IDS Nodes expanded: 352194
+Optimal Depth: 13 IDS Nodes expanded: 1414673
+Optimal Depth: 14 IDS Nodes expanded: 3780092
+4
+Optimal Depth: 1 IDS Nodes expanded: 1
+Optimal Depth: 2 IDS Nodes expanded: 3
+Optimal Depth: 3 IDS Nodes expanded: 7
+Optimal Depth: 4 IDS Nodes expanded: 19
+Optimal Depth: 5 IDS Nodes expanded: 59
+Optimal Depth: 6 IDS Nodes expanded: 308
+Optimal Depth: 7 IDS Nodes expanded: 595
+Optimal Depth: 8 IDS Nodes expanded: 1635
+Optimal Depth: 9 IDS Nodes expanded: 6565
+Optimal Depth: 10 IDS Nodes expanded: 259427
+Optimal Depth: 11 IDS Nodes expanded: 45454
+Optimal Depth: 12 IDS Nodes expanded: 393156
+Optimal Depth: 13 IDS Nodes expanded: 614007
+Optimal Depth: 14 IDS Nodes expanded: 4143164
+5
+Optimal Depth: 1 IDS Nodes expanded: 1
+Optimal Depth: 2 IDS Nodes expanded: 5
+Optimal Depth: 3 IDS Nodes expanded: 8
+Optimal Depth: 4 IDS Nodes expanded: 17
+Optimal Depth: 5 IDS Nodes expanded: 72
+Optimal Depth: 6 IDS Nodes expanded: 562
+Optimal Depth: 7 IDS Nodes expanded: 460
+Optimal Depth: 8 IDS Nodes expanded: 3009
+Optimal Depth: 9 IDS Nodes expanded: 4999
+Optimal Depth: 10 IDS Nodes expanded: 262972
+Optimal Depth: 11 IDS Nodes expanded: 77303
+Optimal Depth: 12 IDS Nodes expanded: 546313
+Optimal Depth: 13 IDS Nodes expanded: 984657
+Optimal Depth: 14 IDS Nodes expanded: 1596213
+6
+Optimal Depth: 1 IDS Nodes expanded: 1
+Optimal Depth: 2 IDS Nodes expanded: 4
+Optimal Depth: 3 IDS Nodes expanded: 8
+Optimal Depth: 4 IDS Nodes expanded: 22
+Optimal Depth: 5 IDS Nodes expanded: 68
+Optimal Depth: 6 IDS Nodes expanded: 313
+Optimal Depth: 7 IDS Nodes expanded: 741
+Optimal Depth: 8 IDS Nodes expanded: 1702
+Optimal Depth: 9 IDS Nodes expanded: 8042
+Optimal Depth: 10 IDS Nodes expanded: 256619
+Optimal Depth: 11 IDS Nodes expanded: 49459
+Optimal Depth: 12 IDS Nodes expanded: 515533
+Optimal Depth: 13 IDS Nodes expanded: 1199562
+Optimal Depth: 14 IDS Nodes expanded: 4640245
+7
+Optimal Depth: 1 IDS Nodes expanded: 1
+Optimal Depth: 2 IDS Nodes expanded: 5
+Optimal Depth: 3 IDS Nodes expanded: 7
+Optimal Depth: 4 IDS Nodes expanded: 18
+Optimal Depth: 5 IDS Nodes expanded: 49
+Optimal Depth: 6 IDS Nodes expanded: 629
+Optimal Depth: 7 IDS Nodes expanded: 659
+Optimal Depth: 8 IDS Nodes expanded: 3907
+Optimal Depth: 9 IDS Nodes expanded: 7577
+Optimal Depth: 10 IDS Nodes expanded: 166197
+Optimal Depth: 11 IDS Nodes expanded: 80829
+Optimal Depth: 12 IDS Nodes expanded: 256577
+Optimal Depth: 13 IDS Nodes expanded: 1283657
+Optimal Depth: 14 IDS Nodes expanded: 2316248
+8
+Optimal Depth: 1 IDS Nodes expanded: 1
+Optimal Depth: 2 IDS Nodes expanded: 5
+Optimal Depth: 3 IDS Nodes expanded: 9
+Optimal Depth: 4 IDS Nodes expanded: 32
+Optimal Depth: 5 IDS Nodes expanded: 61
+Optimal Depth: 6 IDS Nodes expanded: 564
+Optimal Depth: 7 IDS Nodes expanded: 571
+Optimal Depth: 8 IDS Nodes expanded: 2148
+Optimal Depth: 9 IDS Nodes expanded: 7198
+Optimal Depth: 10 IDS Nodes expanded: 279128
+Optimal Depth: 11 IDS Nodes expanded: 55670
+Optimal Depth: 12 IDS Nodes expanded: 476119
+Optimal Depth: 13 IDS Nodes expanded: 1202297
+Optimal Depth: 14 IDS Nodes expanded: 3387478
+9
+Optimal Depth: 1 IDS Nodes expanded: 1
+Optimal Depth: 2 IDS Nodes expanded: 5
+Optimal Depth: 3 IDS Nodes expanded: 9
+Optimal Depth: 4 IDS Nodes expanded: 18
+Optimal Depth: 5 IDS Nodes expanded: 72
+Optimal Depth: 6 IDS Nodes expanded: 517
+Optimal Depth: 7 IDS Nodes expanded: 726
+Optimal Depth: 8 IDS Nodes expanded: 3125
+Optimal Depth: 9 IDS Nodes expanded: 6935
+Optimal Depth: 10 IDS Nodes expanded: 169917
+Optimal Depth: 11 IDS Nodes expanded: 51100
+Optimal Depth: 12 IDS Nodes expanded: 559612
+Optimal Depth: 13 IDS Nodes expanded: 550118
+Optimal Depth: 14 IDS Nodes expanded: 2596000
+10
+Optimal Depth: 1 IDS Nodes expanded: 1
+Optimal Depth: 2 IDS Nodes expanded: 5
+Optimal Depth: 3 IDS Nodes expanded: 8
+Optimal Depth: 4 IDS Nodes expanded: 39
+Optimal Depth: 5 IDS Nodes expanded: 51
+Optimal Depth: 6 IDS Nodes expanded: 431
+Optimal Depth: 7 IDS Nodes expanded: 557
+Optimal Depth: 8 IDS Nodes expanded: 3514
+Optimal Depth: 9 IDS Nodes expanded: 5109
+Optimal Depth: 10 IDS Nodes expanded: 263616
+Optimal Depth: 11 IDS Nodes expanded: 49529
+Optimal Depth: 12 IDS Nodes expanded: 425624
+Optimal Depth: 13 IDS Nodes expanded: 742810
+Optimal Depth: 14 IDS Nodes expanded: 2902505
+
+Non randomised IDS
+Optimal Depth: 1 IDS Nodes expanded: 1
+Optimal Depth: 2 IDS Nodes expanded: 3
+Optimal Depth: 3 IDS Nodes expanded: 9
+Optimal Depth: 4 IDS Nodes expanded: 38
+Optimal Depth: 5 IDS Nodes expanded: 81
+Optimal Depth: 6 IDS Nodes expanded: 349
+Optimal Depth: 7 IDS Nodes expanded: 692
+Optimal Depth: 8 IDS Nodes expanded: 2054
+Optimal Depth: 9 IDS Nodes expanded: 6795
+Optimal Depth: 10 IDS Nodes expanded: 174689
+Optimal Depth: 11 IDS Nodes expanded: 85985
+Optimal Depth: 12 IDS Nodes expanded: 655935
+Optimal Depth: 13 IDS Nodes expanded: 895613
+Optimal Depth: 14 IDS Nodes expanded: 3363438
+
+Optimal Depth: 1 IDS Nodes expanded: 1
+Optimal Depth: 2 IDS Nodes expanded: 3
+Optimal Depth: 3 IDS Nodes expanded: 9
+Optimal Depth: 4 IDS Nodes expanded: 38
+Optimal Depth: 5 IDS Nodes expanded: 81
+Optimal Depth: 6 IDS Nodes expanded: 349
+Optimal Depth: 7 IDS Nodes expanded: 692
+Optimal Depth: 8 IDS Nodes expanded: 2054
+Optimal Depth: 9 IDS Nodes expanded: 6795
+Optimal Depth: 10 IDS Nodes expanded: 174689
+Optimal Depth: 11 IDS Nodes expanded: 85985
+Optimal Depth: 12 IDS Nodes expanded: 655935
+Optimal Depth: 13 IDS Nodes expanded: 895613
+Optimal Depth: 14 IDS Nodes expanded: 3363438
+
+DFS is Randomised
+1
+Optimal Depth: 1 DFS Nodes expanded: 82774
+Optimal Depth: 2 DFS Nodes expanded: 18293
+Optimal Depth: 3 DFS Nodes expanded: 93979
+Optimal Depth: 4 DFS Nodes expanded: 11735
+Optimal Depth: 5 DFS Nodes expanded: 9435
+Optimal Depth: 6 DFS Nodes expanded: 5924
+Optimal Depth: 7 DFS Nodes expanded: 11341
+Optimal Depth: 8 DFS Nodes expanded: 25541
+Optimal Depth: 9 DFS Nodes expanded: 36313
+Optimal Depth: 10 DFS Nodes expanded: 65017
+Optimal Depth: 11 DFS Nodes expanded: 52501
+Optimal Depth: 12 DFS Nodes expanded: 18080
+Optimal Depth: 13 DFS Nodes expanded: 47530
+Optimal Depth: 14 DFS Nodes expanded: 34493
+2
+Optimal Depth: 1 DFS Nodes expanded: 23181
+Optimal Depth: 2 DFS Nodes expanded: 2
+Optimal Depth: 3 DFS Nodes expanded: 942
+Optimal Depth: 4 DFS Nodes expanded: 4
+Optimal Depth: 5 DFS Nodes expanded: 43659
+Optimal Depth: 6 DFS Nodes expanded: 86238
+Optimal Depth: 7 DFS Nodes expanded: 5591
+Optimal Depth: 8 DFS Nodes expanded: 10627
+Optimal Depth: 9 DFS Nodes expanded: 1496
+Optimal Depth: 10 DFS Nodes expanded: 17409
+Optimal Depth: 11 DFS Nodes expanded: 35635
+Optimal Depth: 12 DFS Nodes expanded: 12119
+Optimal Depth: 13 DFS Nodes expanded: 53549
+Optimal Depth: 14 DFS Nodes expanded: 9089
+3
+Optimal Depth: 1 DFS Nodes expanded: 1
+Optimal Depth: 2 DFS Nodes expanded: 10
+Optimal Depth: 3 DFS Nodes expanded: 86713
+Optimal Depth: 4 DFS Nodes expanded: 24426
+Optimal Depth: 5 DFS Nodes expanded: 17130
+Optimal Depth: 6 DFS Nodes expanded: 198
+Optimal Depth: 7 DFS Nodes expanded: 18351
+Optimal Depth: 8 DFS Nodes expanded: 43403
+Optimal Depth: 9 DFS Nodes expanded: 19223
+Optimal Depth: 10 DFS Nodes expanded: 26254
+Optimal Depth: 11 DFS Nodes expanded: 1013
+Optimal Depth: 12 DFS Nodes expanded: 5453
+Optimal Depth: 13 DFS Nodes expanded: 71508
+Optimal Depth: 14 DFS Nodes expanded: 386
+4
+Optimal Depth: 1 DFS Nodes expanded: 1
+Optimal Depth: 2 DFS Nodes expanded: 29163
+Optimal Depth: 3 DFS Nodes expanded: 35877
+Optimal Depth: 4 DFS Nodes expanded: 18
+Optimal Depth: 5 DFS Nodes expanded: 47834
+Optimal Depth: 6 DFS Nodes expanded: 11254
+Optimal Depth: 7 DFS Nodes expanded: 131749
+Optimal Depth: 8 DFS Nodes expanded: 39073
+Optimal Depth: 9 DFS Nodes expanded: 14023
+Optimal Depth: 10 DFS Nodes expanded: 59325
+Optimal Depth: 11 DFS Nodes expanded: 41416
+Optimal Depth: 12 DFS Nodes expanded: 50275
+Optimal Depth: 13 DFS Nodes expanded: 27755
+Optimal Depth: 14 DFS Nodes expanded: 41653
+5
+Optimal Depth: 1 DFS Nodes expanded: 15
+Optimal Depth: 2 DFS Nodes expanded: 83680
+Optimal Depth: 3 DFS Nodes expanded: 3
+Optimal Depth: 4 DFS Nodes expanded: 14176
+Optimal Depth: 5 DFS Nodes expanded: 34546
+Optimal Depth: 6 DFS Nodes expanded: 3278
+Optimal Depth: 7 DFS Nodes expanded: 53265
+Optimal Depth: 8 DFS Nodes expanded: 33875
+Optimal Depth: 9 DFS Nodes expanded: 6635
+Optimal Depth: 10 DFS Nodes expanded: 27415
+Optimal Depth: 11 DFS Nodes expanded: 62215
+Optimal Depth: 12 DFS Nodes expanded: 45707
+Optimal Depth: 13 DFS Nodes expanded: 68063
+Optimal Depth: 14 DFS Nodes expanded: 29364
+6
+Optimal Depth: 1 DFS Nodes expanded: 32720
+Optimal Depth: 2 DFS Nodes expanded: 74
+Optimal Depth: 3 DFS Nodes expanded: 16533
+Optimal Depth: 4 DFS Nodes expanded: 47390
+Optimal Depth: 5 DFS Nodes expanded: 48
+Optimal Depth: 6 DFS Nodes expanded: 56824
+Optimal Depth: 7 DFS Nodes expanded: 57680
+Optimal Depth: 8 DFS Nodes expanded: 61261
+Optimal Depth: 9 DFS Nodes expanded: 9605
+Optimal Depth: 10 DFS Nodes expanded: 23633
+Optimal Depth: 11 DFS Nodes expanded: 10664
+Optimal Depth: 12 DFS Nodes expanded: 174233
+Optimal Depth: 13 DFS Nodes expanded: 101303
+Optimal Depth: 14 DFS Nodes expanded: 55581
+7
+Optimal Depth: 1 DFS Nodes expanded: 1
+Optimal Depth: 2 DFS Nodes expanded: 20920
+Optimal Depth: 3 DFS Nodes expanded: 4219
+Optimal Depth: 4 DFS Nodes expanded: 61342
+Optimal Depth: 5 DFS Nodes expanded: 178
+Optimal Depth: 6 DFS Nodes expanded: 36
+Optimal Depth: 7 DFS Nodes expanded: 17501
+Optimal Depth: 8 DFS Nodes expanded: 39833
+Optimal Depth: 9 DFS Nodes expanded: 100485
+Optimal Depth: 10 DFS Nodes expanded: 61563
+Optimal Depth: 11 DFS Nodes expanded: 33821
+Optimal Depth: 12 DFS Nodes expanded: 15552
+Optimal Depth: 13 DFS Nodes expanded: 32656
+Optimal Depth: 14 DFS Nodes expanded: 20641
+8
+Optimal Depth: 1 DFS Nodes expanded: 1
+Optimal Depth: 2 DFS Nodes expanded: 5934
+Optimal Depth: 3 DFS Nodes expanded: 16438
+Optimal Depth: 4 DFS Nodes expanded: 58744
+Optimal Depth: 5 DFS Nodes expanded: 15903
+Optimal Depth: 6 DFS Nodes expanded: 14979
+Optimal Depth: 7 DFS Nodes expanded: 3121
+Optimal Depth: 8 DFS Nodes expanded: 37567
+Optimal Depth: 9 DFS Nodes expanded: 17670
+Optimal Depth: 10 DFS Nodes expanded: 4290
+Optimal Depth: 11 DFS Nodes expanded: 16139
+Optimal Depth: 12 DFS Nodes expanded: 57912
+Optimal Depth: 13 DFS Nodes expanded: 83545
+Optimal Depth: 14 DFS Nodes expanded: 15840
+9
+Optimal Depth: 1 DFS Nodes expanded: 10314
+Optimal Depth: 2 DFS Nodes expanded: 14343
+Optimal Depth: 3 DFS Nodes expanded: 17
+Optimal Depth: 4 DFS Nodes expanded: 44532
+Optimal Depth: 5 DFS Nodes expanded: 33272
+Optimal Depth: 6 DFS Nodes expanded: 4236
+Optimal Depth: 7 DFS Nodes expanded: 68097
+Optimal Depth: 8 DFS Nodes expanded: 91773
+Optimal Depth: 9 DFS Nodes expanded: 175578
+Optimal Depth: 10 DFS Nodes expanded: 18529
+Optimal Depth: 11 DFS Nodes expanded: 116213
+Optimal Depth: 12 DFS Nodes expanded: 47482
+Optimal Depth: 13 DFS Nodes expanded: 106184
+Optimal Depth: 14 DFS Nodes expanded: 17923
+10
+Optimal Depth: 1 DFS Nodes expanded: 27120
+Optimal Depth: 2 DFS Nodes expanded: 1769
+Optimal Depth: 3 DFS Nodes expanded: 35
+Optimal Depth: 4 DFS Nodes expanded: 87338
+Optimal Depth: 5 DFS Nodes expanded: 34542
+Optimal Depth: 6 DFS Nodes expanded: 25965
+Optimal Depth: 7 DFS Nodes expanded: 47847
+Optimal Depth: 8 DFS Nodes expanded: 40681
+Optimal Depth: 9 DFS Nodes expanded: 45
+Optimal Depth: 10 DFS Nodes expanded: 19791
+Optimal Depth: 11 DFS Nodes expanded: 10969
+Optimal Depth: 12 DFS Nodes expanded: 17610
+Optimal Depth: 13 DFS Nodes expanded: 106113
+Optimal Depth: 14 DFS Nodes expanded: 5218
+
+BFS:
+1
+Optimal Depth: 1 BFS Nodes expanded: 3
+Optimal Depth: 2 BFS Nodes expanded: 11
+Optimal Depth: 3 BFS Nodes expanded: 12
+Optimal Depth: 4 BFS Nodes expanded: 50
+Optimal Depth: 5 BFS Nodes expanded: 148
+Optimal Depth: 6 BFS Nodes expanded: 1400
+Optimal Depth: 7 BFS Nodes expanded: 1502
+Optimal Depth: 8 BFS Nodes expanded: 7502
+Optimal Depth: 9 BFS Nodes expanded: 17143
+Optimal Depth: 10 BFS Nodes expanded: 439192
+Optimal Depth: 11 BFS Nodes expanded: 152566
+Optimal Depth: 12 BFS Nodes expanded: 802218
+Optimal Depth: 13 BFS Nodes expanded: 1147340
+Optimal Depth: 14 BFS Nodes expanded: 4466388
+2
+Optimal Depth: 1 BFS Nodes expanded: 3
+Optimal Depth: 2 BFS Nodes expanded: 5
+Optimal Depth: 3 BFS Nodes expanded: 15
+Optimal Depth: 4 BFS Nodes expanded: 47
+Optimal Depth: 5 BFS Nodes expanded: 115
+Optimal Depth: 6 BFS Nodes expanded: 729
+Optimal Depth: 7 BFS Nodes expanded: 1281
+Optimal Depth: 8 BFS Nodes expanded: 3166
+Optimal Depth: 9 BFS Nodes expanded: 15051
+Optimal Depth: 10 BFS Nodes expanded: 563909
+Optimal Depth: 11 BFS Nodes expanded: 167850
+Optimal Depth: 12 BFS Nodes expanded: 731953
+Optimal Depth: 13 BFS Nodes expanded: 2815740
+Optimal Depth: 14 BFS Nodes expanded: 4526027
+3
+Optimal Depth: 1 BFS Nodes expanded: 4
+Optimal Depth: 2 BFS Nodes expanded: 9
+Optimal Depth: 3 BFS Nodes expanded: 16
+Optimal Depth: 4 BFS Nodes expanded: 82
+Optimal Depth: 5 BFS Nodes expanded: 143
+Optimal Depth: 6 BFS Nodes expanded: 1143
+Optimal Depth: 7 BFS Nodes expanded: 1841
+Optimal Depth: 8 BFS Nodes expanded: 6764
+Optimal Depth: 9 BFS Nodes expanded: 9202
+Optimal Depth: 10 BFS Nodes expanded: 479364
+Optimal Depth: 11 BFS Nodes expanded: 190963
+Optimal Depth: 12 BFS Nodes expanded: 737425
+Optimal Depth: 13 BFS Nodes expanded: 1863125
+Optimal Depth: 14 BFS Nodes expanded: 7362478
+4
+Optimal Depth: 1 BFS Nodes expanded: 5
+Optimal Depth: 2 BFS Nodes expanded: 11
+Optimal Depth: 3 BFS Nodes expanded: 14
+Optimal Depth: 4 BFS Nodes expanded: 34
+Optimal Depth: 5 BFS Nodes expanded: 89
+Optimal Depth: 6 BFS Nodes expanded: 1359
+Optimal Depth: 7 BFS Nodes expanded: 1260
+Optimal Depth: 8 BFS Nodes expanded: 4559
+Optimal Depth: 9 BFS Nodes expanded: 14063
+Optimal Depth: 10 BFS Nodes expanded: 543968
+Optimal Depth: 11 BFS Nodes expanded: 122991
+Optimal Depth: 12 BFS Nodes expanded: 1246910
+Optimal Depth: 13 BFS Nodes expanded: 1783766
+Optimal Depth: 14 BFS Nodes expanded: 4464776
+5
+Optimal Depth: 1 BFS Nodes expanded: 2
+Optimal Depth: 2 BFS Nodes expanded: 9
+Optimal Depth: 3 BFS Nodes expanded: 18
+Optimal Depth: 4 BFS Nodes expanded: 32
+Optimal Depth: 5 BFS Nodes expanded: 162
+Optimal Depth: 6 BFS Nodes expanded: 1175
+Optimal Depth: 7 BFS Nodes expanded: 1271
+Optimal Depth: 8 BFS Nodes expanded: 8237
+Optimal Depth: 9 BFS Nodes expanded: 14336
+Optimal Depth: 10 BFS Nodes expanded: 547426
+Optimal Depth: 11 BFS Nodes expanded: 128484
+Optimal Depth: 12 BFS Nodes expanded: 1464189
+Optimal Depth: 13 BFS Nodes expanded: 1234075
+Optimal Depth: 14 BFS Nodes expanded: 3551897
+6
+Optimal Depth: 1 BFS Nodes expanded: 2
+Optimal Depth: 2 BFS Nodes expanded: 9
+Optimal Depth: 3 BFS Nodes expanded: 15
+Optimal Depth: 4 BFS Nodes expanded: 60
+Optimal Depth: 5 BFS Nodes expanded: 104
+Optimal Depth: 6 BFS Nodes expanded: 930
+Optimal Depth: 7 BFS Nodes expanded: 1292
+Optimal Depth: 8 BFS Nodes expanded: 5773
+Optimal Depth: 9 BFS Nodes expanded: 10786
+Optimal Depth: 10 BFS Nodes expanded: 576270
+Optimal Depth: 11 BFS Nodes expanded: 139691
+Optimal Depth: 12 BFS Nodes expanded: 1273061
+Optimal Depth: 13 BFS Nodes expanded: 2677703
+Optimal Depth: 14 BFS Nodes expanded: 8824924
+7
+Optimal Depth: 1 BFS Nodes expanded: 2
+Optimal Depth: 2 BFS Nodes expanded: 10
+Optimal Depth: 3 BFS Nodes expanded: 17
+Optimal Depth: 4 BFS Nodes expanded: 85
+Optimal Depth: 5 BFS Nodes expanded: 115
+Optimal Depth: 6 BFS Nodes expanded: 1352
+Optimal Depth: 7 BFS Nodes expanded: 1457
+Optimal Depth: 8 BFS Nodes expanded: 8582
+Optimal Depth: 9 BFS Nodes expanded: 14664
+Optimal Depth: 10 BFS Nodes expanded: 385736
+Optimal Depth: 11 BFS Nodes expanded: 132357
+Optimal Depth: 12 BFS Nodes expanded: 809074
+Optimal Depth: 13 BFS Nodes expanded: 1979409
+Optimal Depth: 14 BFS Nodes expanded: 4767553
+8
+Optimal Depth: 1 BFS Nodes expanded: 2
+Optimal Depth: 2 BFS Nodes expanded: 10
+Optimal Depth: 3 BFS Nodes expanded: 15
+Optimal Depth: 4 BFS Nodes expanded: 52
+Optimal Depth: 5 BFS Nodes expanded: 133
+Optimal Depth: 6 BFS Nodes expanded: 460
+Optimal Depth: 7 BFS Nodes expanded: 1519
+Optimal Depth: 8 BFS Nodes expanded: 3998
+Optimal Depth: 9 BFS Nodes expanded: 10550
+Optimal Depth: 10 BFS Nodes expanded: 624948
+Optimal Depth: 11 BFS Nodes expanded: 152752
+Optimal Depth: 12 BFS Nodes expanded: 595610
+Optimal Depth: 13 BFS Nodes expanded: 1328040
+Optimal Depth: 14 BFS Nodes expanded: 5594974
+
+
+Not randomised
+
+Optimal Depth: 1 BFS Nodes expanded: 4
+Optimal Depth: 2 BFS Nodes expanded: 12
+Optimal Depth: 3 BFS Nodes expanded: 17
+Optimal Depth: 4 BFS Nodes expanded: 35
+Optimal Depth: 5 BFS Nodes expanded: 109
+Optimal Depth: 6 BFS Nodes expanded: 1080
+Optimal Depth: 7 BFS Nodes expanded: 1686
+Optimal Depth: 8 BFS Nodes expanded: 7380
+Optimal Depth: 9 BFS Nodes expanded: 18365
+Optimal Depth: 10 BFS Nodes expanded: 479819
+Optimal Depth: 11 BFS Nodes expanded: 122428
+Optimal Depth: 12 BFS Nodes expanded: 609761
+Optimal Depth: 13 BFS Nodes expanded: 2231064
+Optimal Depth: 14 BFS Nodes expanded: 6179534
+
+new BFS
+Optimal Depth: 1
+BFS Nodes expanded: 4
+Optimal Depth: 2
+BFS Nodes expanded: 10
+Optimal Depth: 3
+BFS Nodes expanded: 13
+Optimal Depth: 4
+BFS Nodes expanded: 64
+Optimal Depth: 5
+BFS Nodes expanded: 172
+Optimal Depth: 6
+BFS Nodes expanded: 1357
+Optimal Depth: 7
+BFS Nodes expanded: 1666
+Optimal Depth: 8
+BFS Nodes expanded: 3441
+Optimal Depth: 9
+BFS Nodes expanded: 13338
+Optimal Depth: 10
+BFS Nodes expanded: 446718
+Optimal Depth: 11
+BFS Nodes expanded: 126588
+Optimal Depth: 12
+BFS Nodes expanded: 1273152
+Optimal Depth: 13
+BFS Nodes expanded: 2762380
+Optimal Depth: 14
+BFS Nodes expanded: 8097213
+
+Optimal Depth: 1
+BFS Nodes expanded: 4
+Optimal Depth: 2
+BFS Nodes expanded: 9
+Optimal Depth: 3
+BFS Nodes expanded: 16
+Optimal Depth: 4
+BFS Nodes expanded: 85
+Optimal Depth: 5
+BFS Nodes expanded: 131
+Optimal Depth: 6
+BFS Nodes expanded: 726
+Optimal Depth: 7
+BFS Nodes expanded: 1067
+Optimal Depth: 8
+BFS Nodes expanded: 6235
+Optimal Depth: 9
+BFS Nodes expanded: 16241
+Optimal Depth: 10
+BFS Nodes expanded: 564299
+Optimal Depth: 11
+BFS Nodes expanded: 159736
+Optimal Depth: 12
+BFS Nodes expanded: 1506831
+Optimal Depth: 13
+BFS Nodes expanded: 2531091
+Optimal Depth: 14
+BFS Nodes expanded: 5964410
+Optimal Depth: 1
+BFS Nodes expanded: 5
+Optimal Depth: 2
+BFS Nodes expanded: 10
+Optimal Depth: 3
+BFS Nodes expanded: 13
+Optimal Depth: 4
+BFS Nodes expanded: 57
+Optimal Depth: 5
+BFS Nodes expanded: 105
+Optimal Depth: 6
+BFS Nodes expanded: 1215
+Optimal Depth: 7
+BFS Nodes expanded: 1415
+Optimal Depth: 8
+BFS Nodes expanded: 7491
+Optimal Depth: 9
+BFS Nodes expanded: 13975
+Optimal Depth: 10
+BFS Nodes expanded: 352042
+Optimal Depth: 11
+BFS Nodes expanded: 101250
+Optimal Depth: 12
+BFS Nodes expanded: 646065
+Optimal Depth: 13
+BFS Nodes expanded: 2642754
+Optimal Depth: 14
+BFS Nodes expanded: 8838347
+
+
+Optimal Depth: 1 BFGS Nodes expanded: 3
+Optimal Depth: 2 BFGS Nodes expanded: 8
+Optimal Depth: 3 BFGS Nodes expanded: 8
+Optimal Depth: 4 BFGS Nodes expanded: 28
+Optimal Depth: 5 BFGS Nodes expanded: 29
+Optimal Depth: 6 BFGS Nodes expanded: 89
+Optimal Depth: 7 BFGS Nodes expanded: 127
+Optimal Depth: 8 BFGS Nodes expanded: 382
+Optimal Depth: 9 BFGS Nodes expanded: 460
+Optimal Depth: 10 BFGS Nodes expanded: 674
+Optimal Depth: 11 BFGS Nodes expanded: 1429
+Optimal Depth: 12 BFGS Nodes expanded: 2948
+Optimal Depth: 13 BFGS Nodes expanded: 2492
+Optimal Depth: 14 BFGS Nodes expanded: 2036
+Optimal Depth: 1 BFGS Nodes expanded: 4
+Optimal Depth: 2 BFGS Nodes expanded: 9
+Optimal Depth: 3 BFGS Nodes expanded: 7
+Optimal Depth: 4 BFGS Nodes expanded: 30
+Optimal Depth: 5 BFGS Nodes expanded: 23
+Optimal Depth: 6 BFGS Nodes expanded: 91
+Optimal Depth: 7 BFGS Nodes expanded: 138
+Optimal Depth: 8 BFGS Nodes expanded: 424
+Optimal Depth: 9 BFGS Nodes expanded: 345
+Optimal Depth: 10 BFGS Nodes expanded: 676
+Optimal Depth: 11 BFGS Nodes expanded: 1532
+Optimal Depth: 12 BFGS Nodes expanded: 2984
+Optimal Depth: 13 BFGS Nodes expanded: 2782
+Optimal Depth: 14 BFGS Nodes expanded: 2237
+Optimal Depth: 1 BFGS Nodes expanded: 2
+Optimal Depth: 2 BFGS Nodes expanded: 9
+Optimal Depth: 3 BFGS Nodes expanded: 9
+Optimal Depth: 4 BFGS Nodes expanded: 38
+Optimal Depth: 5 BFGS Nodes expanded: 22
+Optimal Depth: 6 BFGS Nodes expanded: 90
+Optimal Depth: 7 BFGS Nodes expanded: 122
+Optimal Depth: 8 BFGS Nodes expanded: 371
+Optimal Depth: 9 BFGS Nodes expanded: 409
+Optimal Depth: 10 BFGS Nodes expanded: 626
+Optimal Depth: 11 BFGS Nodes expanded: 1594
+Optimal Depth: 12 BFGS Nodes expanded: 2627
+Optimal Depth: 13 BFGS Nodes expanded: 2748
+Optimal Depth: 14 BFGS Nodes expanded: 2050
+Optimal Depth: 1 BFGS Nodes expanded: 3
+Optimal Depth: 2 BFGS Nodes expanded: 7
+Optimal Depth: 3 BFGS Nodes expanded: 9
+Optimal Depth: 4 BFGS Nodes expanded: 27
+Optimal Depth: 5 BFGS Nodes expanded: 38
+Optimal Depth: 6 BFGS Nodes expanded: 143
+Optimal Depth: 7 BFGS Nodes expanded: 107
+Optimal Depth: 8 BFGS Nodes expanded: 357
+Optimal Depth: 9 BFGS Nodes expanded: 346
+Optimal Depth: 10 BFGS Nodes expanded: 619
+Optimal Depth: 11 BFGS Nodes expanded: 1343
+Optimal Depth: 12 BFGS Nodes expanded: 2876
+Optimal Depth: 13 BFGS Nodes expanded: 2338
+Optimal Depth: 14 BFGS Nodes expanded: 2108
+Optimal Depth: 1 BFGS Nodes expanded: 4
+Optimal Depth: 2 BFGS Nodes expanded: 8
+Optimal Depth: 3 BFGS Nodes expanded: 7
+Optimal Depth: 4 BFGS Nodes expanded: 29
+Optimal Depth: 5 BFGS Nodes expanded: 39
+Optimal Depth: 6 BFGS Nodes expanded: 136
+Optimal Depth: 7 BFGS Nodes expanded: 149
+Optimal Depth: 8 BFGS Nodes expanded: 383
+Optimal Depth: 9 BFGS Nodes expanded: 374
+Optimal Depth: 10 BFGS Nodes expanded: 696
+Optimal Depth: 11 BFGS Nodes expanded: 1333
+Optimal Depth: 12 BFGS Nodes expanded: 2811
+Optimal Depth: 13 BFGS Nodes expanded: 2766
+Optimal Depth: 14 BFGS Nodes expanded: 1824
+Optimal Depth: 1 BFGS Nodes expanded: 2
+Optimal Depth: 2 BFGS Nodes expanded: 8
+Optimal Depth: 3BFGS Nodes expanded: 9
+Optimal Depth: 4 BFGS Nodes expanded: 19
+Optimal Depth: 5 BFGS Nodes expanded: 29
+Optimal Depth: 6 BFGS Nodes expanded: 99
+Optimal Depth: 7 BFGS Nodes expanded: 163
+Optimal Depth: 8 BFGS Nodes expanded: 327
+Optimal Depth: 9 BFGS Nodes expanded: 408
+Optimal Depth: 10 BFGS Nodes expanded: 706
+Optimal Depth: 11 BFGS Nodes expanded: 1425
+Optimal Depth: 12 BFGS Nodes expanded: 2757
+Optimal Depth: 13 BFGS Nodes expanded: 2869
+Optimal Depth: 14 BFGS Nodes expanded: 1775
+Optimal Depth: 1 BFGS Nodes expanded: 2
+Optimal Depth: 2 BFGS Nodes expanded: 6
+Optimal Depth: 3 BFGS Nodes expanded: 10
+Optimal Depth: 4 BFGS Nodes expanded: 36
+Optimal Depth: 5 BFGS Nodes expanded: 22
+Optimal Depth: 6 BFGS Nodes expanded: 136
+Optimal Depth: 7 BFGS Nodes expanded: 153
+Optimal Depth: 8 BFGS Nodes expanded: 424
+Optimal Depth: 9 BFGS Nodes expanded: 382
+Optimal Depth: 10 BFGS Nodes expanded: 597
+Optimal Depth: 11 BFGS Nodes expanded: 1668
+Optimal Depth: 12 BFGS Nodes expanded: 2122
+Optimal Depth: 13 BFGS Nodes expanded: 2460
+Optimal Depth: 14 BFGS Nodes expanded: 2123
+Optimal Depth: 1 BFGS Nodes expanded: 3
+Optimal Depth: 2 BFGS Nodes expanded: 6
+Optimal Depth: 3 BFGS Nodes expanded: 8
+Optimal Depth: 4 BFGS Nodes expanded: 27
+Optimal Depth: 5 BFGS Nodes expanded: 23
+Optimal Depth: 6 BFGS Nodes expanded: 89
+Optimal Depth: 7 BFGS Nodes expanded: 119
+Optimal Depth: 8 BFGS Nodes expanded: 377
+Optimal Depth: 9 BFGS Nodes expanded: 398
+Optimal Depth: 10 BFGS Nodes expanded: 733
+Optimal Depth: 11 BFGS Nodes expanded: 1345
+Optimal Depth: 12 BFGS Nodes expanded: 2796
+Optimal Depth: 13 BFGS Nodes expanded: 2891
+Optimal Depth: 14 BFGS Nodes expanded: 2033
+Optimal Depth: 1 BFGS Nodes expanded: 5
+Optimal Depth: 2 BFGS Nodes expanded: 7
+Optimal Depth: 3 BFGS Nodes expanded: 8
+Optimal Depth: 4 BFGS Nodes expanded: 19
+Optimal Depth: 5 BFGS Nodes expanded: 23
+Optimal Depth: 6 BFGS Nodes expanded: 119
+Optimal Depth: 7 BFGS Nodes expanded: 149
+Optimal Depth: 8 BFGS Nodes expanded: 382
+Optimal Depth: 9 BFGS Nodes expanded: 444
+Optimal Depth: 10 BFGS Nodes expanded: 714
+Optimal Depth: 11 BFGS Nodes expanded: 1365
+Optimal Depth: 12 BFGS Nodes expanded: 3042
+Optimal Depth: 13 BFGS Nodes expanded: 2802
+Optimal Depth: 14 BFGS Nodes expanded: 2037
+Optimal Depth: 1 BFGS Nodes expanded: 3
+Optimal Depth: 2 BFGS Nodes expanded: 8
+Optimal Depth: 3 BFGS Nodes expanded: 8
+Optimal Depth: 4 BFGS Nodes expanded: 38
+Optimal Depth: 5 BFGS Nodes expanded: 23
+Optimal Depth: 6 BFGS Nodes expanded: 99
+Optimal Depth: 7 BFGS Nodes expanded: 131
+Optimal Depth: 8 BFGS Nodes expanded: 328
+Optimal Depth: 9 BFGS Nodes expanded: 444
+Optimal Depth: 10 BFGS Nodes expanded: 511
+Optimal Depth: 11 BFGS Nodes expanded: 1456
+Optimal Depth: 12 BFGS Nodes expanded: 2860
+Optimal Depth: 13 BFGS Nodes expanded: 2845
+Optimal Depth: 14 BFGS Nodes expanded: 2048
